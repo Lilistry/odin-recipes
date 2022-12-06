@@ -1,9 +1,9 @@
 body {
-    background-color: cadetblue;
+    background-color: #53708d;
 }
-.title {
+    .title {
     color: black;
-    font-family: 'Times New Roman', Times, serif; 
+    font-family: 'Bahnschrift Light', Arial, Helvetica, sans-serif; 
     font-size: 22px; 
     text-align: center;
 }
