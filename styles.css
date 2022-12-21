@@ -23,31 +23,16 @@ h3 {
     text-align: center;
 }
 
+.container {
+    display: flex;
+}
 
 .recipe {
     
     color: #915230;
     text-shadow: -1px 1px rgb(3, 5, 29);
     font-size: 26px;
-    text-align: right;
-    background-color: #839fad;
-    border: 0px;
-}
-
-#cheesecake {
-    display: block;
-    margin: 0 auto;
-}
-
-#white {
-    display: block;
-    margin: 0 auto;
-}
-
-#brownies {
-    display: block;
-    margin: 0 auto;
-}
+   }
 
 .a:visited {
     color: #000;
